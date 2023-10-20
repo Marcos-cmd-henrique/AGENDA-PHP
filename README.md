@@ -4,9 +4,13 @@ Foi criado uma agenda em PHP a qual cadastra o nome, telefone e observação. Te
 
 CRIANDO BANCO DE DADOS NO PHPMYADMIN 
 
-nome: agenda 
+nome do banco: agenda 
+
 usuario: root
-senha: 
+
+senha: ""
+
+Código SQL para criação da table : 
 
 CREATE TABLE contacts (
 	id INT UNSIGNED AUTO_INCREMENT PRIMARY KEY, 
