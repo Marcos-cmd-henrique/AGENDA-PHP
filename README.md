@@ -19,3 +19,9 @@ CREATE TABLE contacts (
 	observations TEXT
 
 );
+
+COMO USAR:
+1. Instale o XAMPP e starta o Apache e MySQL.
+2. Faz o git clone do projeto dentro da pasta XAMPP/HTDOCS no disco C:
+3. No navegador, coloca http://localhost/AGENDA-PHP/ para acessar o projeto e interagir.
+4. No navegador, coloca http://localhost/phpmyadmin/ para acessar o phpmyadmin banco de dados e criar o banco local via SQL.
